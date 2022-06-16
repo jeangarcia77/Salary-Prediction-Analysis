@@ -23,5 +23,5 @@
 
 
 
-Salary Prediction Analysis Presentation:<a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing"> Click here</a>
+Salary Prediction Analysis Presentation:<a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing"> Click here for presentation</a>
 
