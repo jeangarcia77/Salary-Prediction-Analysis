@@ -24,7 +24,7 @@
 This dataset contained no missing values while there were 24 duplicates values. Duplicate values were dropped as they represent an insignificant amount of data within oue dataset. 
 
 
-## Results 
+## Exploratory Analysis 
 
 #### Salary Breakdown
 ![Salary Breakdown image](salary_breakdown.PNG)
@@ -41,6 +41,8 @@ This dataset contained no missing values while there were 24 duplicates values. 
 
 > Top 5 occupations within the more than $50k category.
 
+
+# Results
 <br>
 
 **Salary Prediction Analysis Presentation**:<a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing"> Click here</a>
