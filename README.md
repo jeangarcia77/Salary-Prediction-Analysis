@@ -20,7 +20,8 @@
 
 
 ## Methods
-#### Handling Missing Values
+#### Handling Missing/Duplicate Values
+This dataset contained no missing values while there were 24 duplicates values. Duplicate values were dropped as they represent an insignificant amount of data within oue dataset. 
 
 
 
@@ -32,5 +33,6 @@
 
 
 
-Salary Prediction Analysis Presentation:<a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing"> Click here</a>
+
+**Salary Prediction Analysis Presentation**:<a href="https://docs.google.com/presentation/d/1DWoRXdvNVrWKYUw72BFdQDpyIZZYY6j70uRr9utBPJg/edit?usp=sharing"> Click here</a>
 
