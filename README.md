@@ -23,6 +23,7 @@
 #### Handling Missing/Duplicate Values
 This dataset contained no missing values while there were 24 duplicates values. Duplicate values were dropped as they represent an insignificant amount of data within our dataset. 
 <br>
+<br>
 
 ## Exploratory Analysis 
 
