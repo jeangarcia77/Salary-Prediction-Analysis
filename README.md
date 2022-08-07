@@ -19,6 +19,15 @@
 *   **Challenges**: Since the data derives from old census data, there may be data that is missing. Real world data seems to have challenges with possible inconsistent values due to user error or incorrect dates.
 
 
+## Methods
+#### Handling Missing Values
+
+
+
+
+
+
+
 
 
 
