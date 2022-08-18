@@ -28,19 +28,19 @@ This dataset contained no missing values while there were 24 duplicates values. 
 ## Exploratory Analysis 
 
 #### Salary Breakdown
-![Salary Breakdown image](salary_breakdown.PNG)
+![Salary Breakdown image](salary_breakdown.png)
 
 > Here we see the Salary breakdown; most of our data is within the less than or equal to $50k with 76%. (0 equals <=$50k and 1 equals >$50k)
 <br>
 
 #### Salary between the Genders
-![Salary Breakdown Between Gender image](salary_gender.PNG)
+![Salary Breakdown Between Gender image](salary_gender.png)
 
 > Salary breakdown between genders; we see that the Male gender contains a larger amount of data falling into the more than $50k category.
 <br>
 
 ##### Top 5 Occupations: More than $50k
-![Top 5 occupations image](top_5.PNG)
+![Top 5 occupations image](top_5.png)
 
 > Top 5 occupations within the more than $50k category.
 <br>
