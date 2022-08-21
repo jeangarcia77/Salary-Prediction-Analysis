@@ -57,8 +57,8 @@ This dataset contained no missing values while there were 24 duplicates values. 
 
 
 >For full access to interactive Salary Prediction Analysis Dashboard <a href="https://app.powerbi.com/groups/me/reports/8fefbc9b-babc-4957-b8d0-61e670e5f983?ctid=4981a704-f6a3-4ac0-89c2-a3812354a3ff&pbi_source=linkShare" target="_blank">Click here</a>
-
 <br>
+
 # Results
 <br>
 
