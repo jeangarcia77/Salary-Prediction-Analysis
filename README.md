@@ -45,6 +45,13 @@ This dataset contained no missing values while there were 24 duplicates values. 
 > Top 5 occupations within the more than $50k category.
 <br>
 
+##### PowerBI Dashboard
+![Top 5 occupations image](Salary_Prediction_Analysis_all.pdf)
+
+> Top 5 occupations within the more than $50k category.
+<br>
+
+
 # Results
 <br>
 
