@@ -51,6 +51,13 @@ This dataset contained no missing values while there were 24 duplicates values. 
 > PowerBI Dashboard
 <br>
 
+![Salary Prediction Analysis PowerBI Dashboard](Salary_Prediction_Analysis_more_50k.pdf)
+<a href="Salary_Prediction_Analysis_more_50k.pdf" target="_blank">PowerBI Dashboard: Individuals making more than $50k</a>
+
+<br>
+
+
+
 
 # Results
 <br>
