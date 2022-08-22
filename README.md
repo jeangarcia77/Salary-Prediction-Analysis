@@ -46,6 +46,9 @@ This dataset contained no missing values while there were 24 duplicates values. 
 <br>
 
 ## PowerBI Dashboard
+![Salary Prediction Analysis PowerBI Dashboard](Salary_Prediction_Analysis.PNG)
+<br>
+
 <a href="Salary_Prediction_Analysis_all.pdf" target="_blank">PowerBI Dashboard: All Individuals</a>
 <br>
 
@@ -56,7 +59,8 @@ This dataset contained no missing values while there were 24 duplicates values. 
 <br>
 
 
->For full access to interactive Salary Prediction Analysis Dashboard <a href="https://app.powerbi.com/groups/me/reports/8fefbc9b-babc-4957-b8d0-61e670e5f983?ctid=4981a704-f6a3-4ac0-89c2-a3812354a3ff&pbi_source=linkShare" target="_blank">Click here</a>
+> Access PowerBI file for download of Salary Prediction Analysis PowerBI Dashboard <a href="Salary_Prediction_Analysis.pbix" target="_blank">Click here</a>
+
 <br>
 
 # Results
